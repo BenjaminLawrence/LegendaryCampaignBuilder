@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace LegendaryCampaignBuilder
 {
-    internal class Scheme
+    internal class CampaignEvent
     {
-        Entity Entity { get; }
+        CampaignOption option1;
+        CampaignOption option2;
     }
 }

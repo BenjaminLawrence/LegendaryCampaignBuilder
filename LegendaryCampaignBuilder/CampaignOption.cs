@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace LegendaryCampaignBuilder
 {
-    internal class Scheme
+    internal class CampaignOption
     {
-        Entity Entity { get; }
+        Mastermind  Mastermind { get; }
+        Scheme Scheme { get; }
+        Hero Reward { get; }
     }
 }

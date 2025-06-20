@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LegendaryCampaignBuilder
 {
-    internal class Scheme
+    internal class VillainGroup
     {
         Entity Entity { get; }
     }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LegendaryCampaignBuilder
 {
-    internal class Campaign
+    internal class CampaignFactory
     {
         string Name { get; }
         List<Hero> HeroPool { get; }

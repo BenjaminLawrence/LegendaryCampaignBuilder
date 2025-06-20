@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace LegendaryCampaignBuilder
 {
-    internal class Scheme
+    enum Theme
     {
-        Entity Entity { get; }
+        Thunderbolts = 1
     }
 }

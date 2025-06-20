@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace LegendaryCampaignBuilder
 {
-    internal class Scheme
+    internal class ThunderboltCampaign
     {
-        Entity Entity { get; }
+        List<Hero> StartingHeroes;
+        // Choose 5 random heroes
+        // Set first event
     }
 }
