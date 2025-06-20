@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace LegendaryCampaignBuilder
 {
-    [Flags]
-    enum HeroClass
+    internal class Campaign
     {
-        Covert = 1,
-        Instinct = 2,
-        Ranged = 4,
-        Strength = 8,
-        Tech = 16
+        Hero[] StartingHeroes;
+        Mastermind[] FirstMastermindChoice;
+        Mastermind[] FirstMastermindChoice;
     }
 }

@@ -10,14 +10,22 @@ namespace LegendaryCampaignBuilder
     {
         string Name { get; }
         int Tier { get; }
-        CompatibleCampaigns Campaigns {get;}
+        // CompatibleCampaigns Campaigns {get;}
         HeroTeam Team { get; }
-        Boolean FactionDependent { get; }
-        HeroClass[] Classes { get; }
-        Boolean ClassDependent { get; }
-        Boolean IsPure { get; }
-        Boolean CanKO { get; }
-        Boolean CanHeal { get; }
-        Boolean CanWound { get; }
+        // Boolean FactionDependent { get; }
+        HeroClass Classes { get; }
+        // Boolean ClassDependent { get; }
+        // Boolean IsPure { get; }
+        // Boolean CanKO { get; }
+        // Boolean CanHeal { get; }
+        // Boolean CanWound { get; }
+
+        public Hero(string name, int tier, HeroTeam team, HeroClass classes)
+        {
+            Name = name;
+            Tier = tier;
+            Team = team;
+            Classes = classes;
+        }
     }
 }
