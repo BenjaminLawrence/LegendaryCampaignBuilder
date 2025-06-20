@@ -11,7 +11,7 @@ namespace LegendaryCampaignBuilder
         string Name { get; }
         int Tier { get; }
         CompatibleCampaigns Campaigns {get;}
-        HeroFaction Faction { get; }
+        HeroTeam Team { get; }
         Boolean FactionDependent { get; }
         HeroClass[] Classes { get; }
         Boolean ClassDependent { get; }
