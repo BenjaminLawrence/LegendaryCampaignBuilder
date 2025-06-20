@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj",
+      "projectUniqueName": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj",
       "projectName": "LegendaryCampaignBuilder",
-      "projectPath": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj",
+      "projectPath": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj",
       "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
-      "outputPath": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\obj\\",
+      "outputPath": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\benja\\AppData\\Roaming\\NuGet\\NuGet.Config",
