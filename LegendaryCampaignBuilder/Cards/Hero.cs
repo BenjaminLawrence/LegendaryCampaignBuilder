@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LegendaryCampaignBuilder
+namespace LegendaryCampaignBuilder.Cards
 {
     internal class Hero
     {
@@ -33,7 +33,7 @@ namespace LegendaryCampaignBuilder
             Name = name;
             Tier = tier;
             Team = team;
-            Classes = (HeroClass)0;
+            Classes = 0;
         }
 
         public Hero(string name)
@@ -41,7 +41,7 @@ namespace LegendaryCampaignBuilder
             Name = name;
             Tier = 1;
             Team = HeroTeam.None;
-            Classes = (HeroClass)0;
+            Classes = 0;
         }
 
         public override string ToString()
