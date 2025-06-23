@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using LegendaryCampaignBuilder.Heroes;
 
-namespace LegendaryCampaignBuilder.Cards
+namespace LegendaryCampaignBuilder
 {
     internal class Mastermind
     {

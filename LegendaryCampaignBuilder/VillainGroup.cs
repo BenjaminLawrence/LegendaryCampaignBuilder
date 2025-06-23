@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LegendaryCampaignBuilder.Cards
+namespace LegendaryCampaignBuilder
 {
-    internal class Henchmen
+    internal class VillainGroup
     {
         public string Name { get; }
 
-        public Henchmen(string name)
+        public VillainGroup(string name)
         {
             Name = name;
         }
