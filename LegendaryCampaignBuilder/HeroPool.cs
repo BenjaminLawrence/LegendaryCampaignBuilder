@@ -14,6 +14,13 @@ namespace LegendaryCampaignBuilder
         List<Hero> uncommonHeroPool;
         // List<Hero> rareHeroPool;
 
+        public HeroPool(List<Hero> startingHeroPool, List<Hero> commonHeroPool, List<Hero> uncommonHeroPool)
+        {
+            this.startingHeroPool = startingHeroPool;
+            this.commonHeroPool = commonHeroPool;
+            this.uncommonHeroPool = uncommonHeroPool;
+        }
+
         public List<Hero> GetStartingHeroes()
         {
             List<Hero> startingHeroes = new List<Hero>();
