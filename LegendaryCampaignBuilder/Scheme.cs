@@ -16,3 +16,10 @@ namespace LegendaryCampaignBuilder
         }
     }
 }
+
+// Ideas for scheme types:
+// Boss buff
+// Bystander Escape
+// Villain Escape
+// Add a hero
+// Add a mastermind

@@ -79,6 +79,16 @@ namespace LegendaryCampaignBuilder
             _henchmenList.Add(new Henchmen("Hand Ninjas"));
             _henchmenList.Add(new Henchmen("Savage Land Mutates"));
             _henchmenList.Add(new Henchmen("Sentinel"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("The Legacy Virus"));
+            _schemeList.Add(new Scheme("Midtown Bank Robbery"));
+            _schemeList.Add(new Scheme("Negative Zone Prison Breakout"));
+            _schemeList.Add(new Scheme("Portals to the Dark Dimension"));
+            _schemeList.Add(new Scheme("Replace Earth's Leaders with Killbots"));
+            _schemeList.Add(new Scheme("Secret Invasion of the Skrull Shapeshifters"));
+            _schemeList.Add(new Scheme("Super Hero Civil War"));
+            _schemeList.Add(new Scheme("Unleash the Power of the Cosmic Cube"));
         }
 
         private void AddFantasticFourSet()
@@ -97,6 +107,12 @@ namespace LegendaryCampaignBuilder
             // Villain Groups
             _villainGroupList.Add(new VillainGroup("Heralds of Galactus"));
             _villainGroupList.Add(new VillainGroup("Subterranea"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Bathe Earth in Cosmic Rays"));
+            _schemeList.Add(new Scheme("Flood the Planet with Melted Glaciers"));
+            _schemeList.Add(new Scheme("Invincible Force Field"));
+            _schemeList.Add(new Scheme("Pull Reality into the Negative Zone"));
         }
 
         private void AddDarkCitySet()
@@ -139,6 +155,16 @@ namespace LegendaryCampaignBuilder
             // Henchmen
             _henchmenList.Add(new Henchmen("Maggia Goons"));
             _henchmenList.Add(new Henchmen("Phalanx"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Capture Baby Hope"));
+            _schemeList.Add(new Scheme("Detonate the Helicarrier"));
+            _schemeList.Add(new Scheme("Massive Earthquake Generator"));
+            _schemeList.Add(new Scheme("Organized Crime Wave"));
+            _schemeList.Add(new Scheme("Save Humanity"));
+            _schemeList.Add(new Scheme("Steal the Weaponized Plutonium"));
+            _schemeList.Add(new Scheme("Transform Citizens into Demons"));
+            _schemeList.Add(new Scheme("X-Cutioner's Song"));
         }
 
         private void AddVillainsSet()
@@ -180,6 +206,16 @@ namespace LegendaryCampaignBuilder
             _henchmenList.Add(new Henchmen("Multiple Man"));
             _henchmenList.Add(new Henchmen("SHIELD Assault Squad"));
             _henchmenList.Add(new Henchmen("Asgardian Warrior"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Build an Underground Mega-Vault Prison"));
+            _schemeList.Add(new Scheme("Cage Villains in Power-Supressing Cells"));
+            _schemeList.Add(new Scheme("Crown Thor King of Asgard"));
+            _schemeList.Add(new Scheme("Crush Hydra"));
+            _schemeList.Add(new Scheme("Graduation at Xavier's X-Academy"));
+            _schemeList.Add(new Scheme("Infiltrate the Lair with Spies"));
+            _schemeList.Add(new Scheme("Mass Produce War Machine Armor"));
+            _schemeList.Add(new Scheme("Resurrect Heroes with the Norn Stones"));
         }
 
         private void AddPaintTheTownRedSet()
@@ -198,6 +234,12 @@ namespace LegendaryCampaignBuilder
             // Villain Groups
             _villainGroupList.Add(new VillainGroup("Maximum Carnage"));
             _villainGroupList.Add(new VillainGroup("Sinister Six"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("The Clone Saga"));
+            _schemeList.Add(new Scheme("Invade the Daily Bugle News HQ"));
+            _schemeList.Add(new Scheme("Splice Humans with Spider DNA"));
+            _schemeList.Add(new Scheme("Weave a Web of Lies"));
         }
 
         private void AddGOTGSet()
@@ -216,6 +258,12 @@ namespace LegendaryCampaignBuilder
             // Villain Groups
             _villainGroupList.Add(new VillainGroup("Infinity Gems"));
             _villainGroupList.Add(new VillainGroup("Kree Starforce"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Forge the Infinity Gauntlet"));
+            _schemeList.Add(new Scheme("Intergalactic Kree Nega-Bomb"));
+            _schemeList.Add(new Scheme("The Kree-Skrull War"));
+            _schemeList.Add(new Scheme("Unite the Shards"));
         }
 
         private void AddFearItselfSet()
@@ -233,6 +281,11 @@ namespace LegendaryCampaignBuilder
 
             // Villain Groups
             _villainGroupList.Add(new VillainGroup("The Mighty"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Last Stand at Avengers Tower"));
+            _schemeList.Add(new Scheme("Fear Itself"));
+            _schemeList.Add(new Scheme("The Traitor"));
         }
 
         private void AddSecretWarsOneSet()
@@ -271,6 +324,16 @@ namespace LegendaryCampaignBuilder
             _henchmenList.Add(new Henchmen("Thor Corps"));
             _henchmenList.Add(new Henchmen("Ghost Racers"));
             _henchmenList.Add(new Henchmen("MODOKS"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Build an Army of Annihilation"));
+            _schemeList.Add(new Scheme("Corrupt the Next Generation of Heroes"));
+            _schemeList.Add(new Scheme("Crush them with my Bare Hands"));
+            _schemeList.Add(new Scheme("Dark Alliance"));
+            _schemeList.Add(new Scheme("Fragmented Realities"));
+            _schemeList.Add(new Scheme("Master of Tyrants"));
+            _schemeList.Add(new Scheme("Pan-Dimensional Plague"));
+            _schemeList.Add(new Scheme("Smash Two Dimensions Together"));
         }
 
         private void AddSecretWarsTwoSet()
@@ -311,6 +374,16 @@ namespace LegendaryCampaignBuilder
             _henchmenList.Add(new Henchmen("Khonshu Guardians"));
             _henchmenList.Add(new Henchmen("Magma Men"));
             _henchmenList.Add(new Henchmen("Spider-Infected"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Deadlands Hordes Charge the Wall"));
+            _schemeList.Add(new Scheme("Enthrone the Barons of Battleworld"));
+            _schemeList.Add(new Scheme("The Fountain of Eternal Life"));
+            _schemeList.Add(new Scheme("The God-Emperor of Battleworld"));
+            _schemeList.Add(new Scheme("The Mark of Khonshu"));
+            _schemeList.Add(new Scheme("Master the Mysteries of Kung-Fu"));
+            _schemeList.Add(new Scheme("Secret Wars"));
+            _schemeList.Add(new Scheme("Sinister Ambitions"));
         }
     }
 }
