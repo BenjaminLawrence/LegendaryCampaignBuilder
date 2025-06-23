@@ -482,5 +482,10 @@ namespace LegendaryCampaignBuilder
             _schemeList.Add(new Scheme("Hidden Heart of Darkness"));
             _schemeList.Add(new Scheme("Silence the Witnesses"));
         }
+
+        private void AddHomecomingSet()
+        {
+            // TODO
+        }
     }
 }
