@@ -36,6 +36,18 @@ namespace LegendaryCampaignBuilder
                 AddSecretWarsOneSet();
             if ((expansions & Expansions.SecretWarsTwo) != 0)
                 AddSecretWarsTwoSet();
+            if ((expansions & Expansions.CaptainAmerica) != 0)
+                AddCaptainAmericaSet();
+            if ((expansions & Expansions.CivilWar) != 0)
+                AddCivilWarSet();
+            if ((expansions & Expansions.Deadpool) != 0)
+                AddDeadpoolSet();
+            if ((expansions & Expansions.Noir) != 0)
+                AddNoirSet();
+            if ((expansions & Expansions.XMen) != 0)
+                AddXMenSet();
+            if ((expansions & Expansions.Homecoming) != 0)
+                AddHomecomingSet();
         }
 
         public List<Hero> GetHeroes() { return _heroList; }
@@ -384,6 +396,67 @@ namespace LegendaryCampaignBuilder
             _schemeList.Add(new Scheme("Master the Mysteries of Kung-Fu"));
             _schemeList.Add(new Scheme("Secret Wars"));
             _schemeList.Add(new Scheme("Sinister Ambitions"));
+        }
+
+        private void AddCaptainAmericaSet()
+        {
+            // TODO
+        }
+
+        private void AddDeadpoolSet()
+        {
+            // TODO
+        }
+
+        private void AddCivilWarSet()
+        {
+            // Heroes
+            _heroList.Add(new Hero("Captain America, Secret Avenger"));
+            _heroList.Add(new Hero("Cloak & Dagger"));
+            _heroList.Add(new Hero("Daredevil"));
+            _heroList.Add(new Hero("Falcon"));
+            _heroList.Add(new Hero("Goliath"));
+            _heroList.Add(new Hero("Hercules"));
+            _heroList.Add(new Hero("Hulkling"));
+            _heroList.Add(new Hero("Luke Cage"));
+            _heroList.Add(new Hero("Patriot"));
+            _heroList.Add(new Hero("Peter Parker"));
+            _heroList.Add(new Hero("Speedball"));
+            _heroList.Add(new Hero("Stature"));
+            _heroList.Add(new Hero("Storm & Black Panther"));
+            _heroList.Add(new Hero("Tigra"));
+            _heroList.Add(new Hero("Vision"));
+            _heroList.Add(new Hero("Wiccan"));
+
+            // Masterminds
+            _mastermindList.Add(new Mastermind("Authoritarian Iron Man"));
+            _mastermindList.Add(new Mastermind("Baron Helmut Zemo"));
+            _mastermindList.Add(new Mastermind("Maria Hill, Director of SHIELD"));
+            _mastermindList.Add(new Mastermind("Misty Knight"));
+            _mastermindList.Add(new Mastermind("Ragnarok"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("CSA Special Marshals"));
+            _villainGroupList.Add(new VillainGroup("Great Lake Avengers"));
+            _villainGroupList.Add(new VillainGroup("Heroes for Hire"));
+            _villainGroupList.Add(new VillainGroup("Registration Enforcers"));
+            _villainGroupList.Add(new VillainGroup("SHIELD Elite"));
+            _villainGroupList.Add(new VillainGroup("Superhuman Registration Act"));
+            _villainGroupList.Add(new VillainGroup("Thunderbolts"));
+
+            // Henchmen
+            _henchmenList.Add(new Henchmen("Cape-Killers"));
+            _henchmenList.Add(new Henchmen("Mandroid"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Avengers vs. X-Men"));
+            _schemeList.Add(new Scheme("Dark Reign of HAMMER Officers"));
+            _schemeList.Add(new Scheme("Epic Super Hero Civil War"));
+            _schemeList.Add(new Scheme("Imprison Unregistered Superhumans"));
+            _schemeList.Add(new Scheme("Nitro the Supervillain Threatens Crowds"));
+            _schemeList.Add(new Scheme("Predict Future Crime"));
+            _schemeList.Add(new Scheme("Reveal Heroes' Secret Identities"));
+            _schemeList.Add(new Scheme("United States Split by Civil War"));
         }
     }
 }
