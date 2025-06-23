@@ -8,6 +8,11 @@ namespace LegendaryCampaignBuilder.Cards
 {
     internal class VillainGroup
     {
-        Card Entity { get; }
+        public string Name { get; }
+
+        public VillainGroup(string name)
+        {
+            Name = name;
+        }
     }
 }

@@ -12,7 +12,16 @@ namespace LegendaryCampaignBuilder.Cards
         string Name { get; }
         int Tier { get; }
         Difficulty Difficulty { get; }
-        HeroTeam[] TeamsThatMatter { get; }
-        HeroClass[] ClassesThatMatter { get; }
+        HeroTeam[]? TeamsThatMatter { get; }
+        HeroClass[]? ClassesThatMatter { get; }
+
+        public Mastermind(string name)
+        {
+            Name = name;
+            Tier = 0;
+            Difficulty = Difficulty.Easy;
+            TeamsThatMatter = null;
+            ClassesThatMatter = null;
+        }
     }
 }

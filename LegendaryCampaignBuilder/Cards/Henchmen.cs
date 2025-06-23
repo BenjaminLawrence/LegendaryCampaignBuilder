@@ -8,6 +8,11 @@ namespace LegendaryCampaignBuilder.Cards
 {
     internal class Henchmen
     {
-        Card Entity { get; }
+        public string Name { get; }
+
+        public Henchmen(string name)
+        {
+            Name = name;
+        }
     }
 }

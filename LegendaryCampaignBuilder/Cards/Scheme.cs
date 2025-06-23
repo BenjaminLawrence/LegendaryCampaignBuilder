@@ -8,6 +8,11 @@ namespace LegendaryCampaignBuilder.Cards
 {
     internal class Scheme
     {
-        Card Entity { get; }
+        private string Name { get; }
+
+        public Scheme(string name)
+        {
+            Name = name;
+        }
     }
 }
