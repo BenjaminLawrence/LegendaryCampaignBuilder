@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LegendaryCampaignBuilder.Cards
+namespace LegendaryCampaignBuilder.Heroes
 {
     internal class Hero
     {

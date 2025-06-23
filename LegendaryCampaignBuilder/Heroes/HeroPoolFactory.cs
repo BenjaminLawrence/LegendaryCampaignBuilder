@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LegendaryCampaignBuilder.Cards;
 
-namespace LegendaryCampaignBuilder
+namespace LegendaryCampaignBuilder.Heroes
 {
     internal class HeroPoolFactory
     {
@@ -19,7 +18,7 @@ namespace LegendaryCampaignBuilder
         public HeroPool ThunderboltHeroPool()
         {
             List<Hero> startingHeroPool = HeroSearch(new[] { "Blade", "Domino", "Elektra", "Ghost Rider", "Punisher", "Wolverine (X-Force)",
-                                                             "Red Guardian", "Deadpool", "Agent Venom", "X-23", "Ronin", "Black Widow (Shield)" } );
+                                                             "Red Guardian", "Deadpool", "Agent Venom", "X-23", "Ronin", "Black Widow (Shield)" });
             List<Hero> commonHeroPool = HeroSearch(new[] { "Hellcat", "Cable", "Forge", "Scarlet Spider", "Venom (Venomverse)", "War Machine",
                                                            "Moon Knight", "Deathlok", "Longshot", "Yelena Belova", "Symbiote Spider-Man", "White Tiger" });
             List<Hero> uncommonHeroPool = HeroSearch(new[] { "Bullseye", "Juggernaut", "Ultron", "Carnage", "Green Goblin", "Sentry" });

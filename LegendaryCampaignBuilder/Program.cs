@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using LegendaryCampaignBuilder;
-using LegendaryCampaignBuilder.Cards;
+using LegendaryCampaignBuilder.Heroes;
 
 // Expansions expansions = (Expansions)16628224;
 Expansions expansions = (Expansions)511;
