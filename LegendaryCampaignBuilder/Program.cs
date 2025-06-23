@@ -26,10 +26,21 @@ using LegendaryCampaignBuilder.Heroes;
 Expansions expansions = (Expansions)511;
 Catalog catalog = new Catalog(expansions);
 HeroPoolFactory heroPoolFactory = new HeroPoolFactory(catalog.GetHeroes());
-HeroPool heroPool = heroPoolFactory.ThunderboltHeroPool();
-List<Hero> startingHeroes = heroPool.GetStartingHeroes();
-Console.WriteLine("Your starting team is:");
-foreach (Hero hero in startingHeroes)
-    Console.WriteLine(hero);
+Console.WriteLine("Which campaign would you like to play?");
+Console.WriteLine("1 - Thunderbolts");
+Console.WriteLine("2 - Cosmos");
+string choice = Console.ReadLine();
+HeroPool heroPool = null;
+if (choice == "1")
+    heroPool = heroPoolFactory.ThunderboltHeroPool();
+else if (choice == "2")
+    heroPool = heroPoolFactory.CosmosHeroPool();
+if (heroPool != null)
+{
+    List<Hero> startingHeroes = heroPool.GetStartingHeroes();
+    Console.WriteLine("Your starting team is:");
+    foreach (Hero hero in startingHeroes)
+        Console.WriteLine(hero);
+}
 Console.WriteLine("Press enter to quit!");
 Console.ReadLine();
