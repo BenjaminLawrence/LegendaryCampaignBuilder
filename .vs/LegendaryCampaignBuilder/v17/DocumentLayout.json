@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\herofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\herofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\heroclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\heroclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\campaignevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\campaignevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\henchmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\henchmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\campaignfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\campaignfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\scheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\scheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\mastermind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\mastermind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|e:\\source\\repos\\legendarycampaignbuilder\\legendarycampaignbuilder\\heroteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098E541-812E-4C5A-8339-B4FCDCECE3BC}|LegendaryCampaignBuilder\\LegendaryCampaignBuilder.csproj|solutionrelative:legendarycampaignbuilder\\heroteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +66,185 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Hero.cs",
               "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Hero.cs",
               "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\Hero.cs",
               "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Hero.cs",
               "RelativeToolTip": "LegendaryCampaignBuilder\\Hero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T11:44:02.828Z",
+              "WhenOpened": "2025-06-23T02:47:00.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "CampaignEvent.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\CampaignEvent.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\CampaignEvent.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\CampaignEvent.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\CampaignEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:43:58.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CampaignFactory.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\CampaignFactory.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\CampaignFactory.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\CampaignFactory.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\CampaignFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:23:01.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scheme.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Scheme.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\Scheme.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Scheme.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\Scheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:56:17.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroFactory.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\HeroFactory.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\HeroFactory.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\HeroFactory.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\HeroFactory.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwv0kAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:35:26.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Theme.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\Theme.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Theme.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:27:03.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Henchmen.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Henchmen.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\Henchmen.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Henchmen.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\Henchmen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:26:22.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Match.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Match.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\Match.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Match.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:41:36.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Event.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Event.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\Event.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Event.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:56:43.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Difficulty.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\Difficulty.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Difficulty.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:21:49.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Program.cs",
               "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\Program.cs",
               "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Program.cs",
               "RelativeToolTip": "LegendaryCampaignBuilder\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T11:23:57.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mastermind.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Mastermind.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\Mastermind.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\Mastermind.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\Mastermind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:20:09.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HeroTeam.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\HeroTeam.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\HeroTeam.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\HeroTeam.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\HeroTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:08:04.794Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeroClass.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\HeroClass.cs",
+              "RelativeDocumentMoniker": "LegendaryCampaignBuilder\\HeroClass.cs",
+              "ToolTip": "E:\\Source\\Repos\\LegendaryCampaignBuilder\\LegendaryCampaignBuilder\\HeroClass.cs",
+              "RelativeToolTip": "LegendaryCampaignBuilder\\HeroClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:17:29.959Z",
+              "EditorCaption": ""
             }
           ]
         }

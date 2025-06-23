@@ -27,5 +27,21 @@ namespace LegendaryCampaignBuilder
             Team = team;
             Classes = classes;
         }
+
+        public Hero(string name, int tier, HeroTeam team)
+        {
+            Name = name;
+            Tier = tier;
+            Team = team;
+            Classes = (HeroClass)0;
+        }
+
+        public Hero(string name)
+        {
+            Name = name;
+            Tier = 1;
+            Team = HeroTeam.None;
+            Classes = (HeroClass)0;
+        }
     }
 }
