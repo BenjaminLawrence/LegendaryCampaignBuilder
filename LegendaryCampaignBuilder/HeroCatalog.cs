@@ -35,7 +35,6 @@ namespace LegendaryCampaignBuilder
 
         public List<Hero> GetHeroes() { return _heroList; }
 
-        // Covert = 1, Instinct = 2, Ranged = 4, Strength = 8, Tech = 16
         public List<Hero> GetCoreHeroes()
         {
             List<Hero> heroes = new List<Hero>();
