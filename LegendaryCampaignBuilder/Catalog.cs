@@ -353,7 +353,7 @@ namespace LegendaryCampaignBuilder
             // Heroes
             _heroList.Add(new Hero("Agent Venom"));
             _heroList.Add(new Hero("Arkon the Magnificent"));
-            _heroList.Add(new Hero("Beast"));
+            _heroList.Add(new Hero("Beast (Illuminati)"));
             _heroList.Add(new Hero("Black Swan"));
             _heroList.Add(new Hero("The Captain and the Devil"));
             _heroList.Add(new Hero("Captain Britain"));
@@ -481,6 +481,60 @@ namespace LegendaryCampaignBuilder
             _schemeList.Add(new Scheme("Five Families of Crime"));
             _schemeList.Add(new Scheme("Hidden Heart of Darkness"));
             _schemeList.Add(new Scheme("Silence the Witnesses"));
+        }
+
+        private void AddXMenSet()
+        {
+            // Heroes
+            _heroList.Add(new Hero("Aurora & Northstar"));
+            _heroList.Add(new Hero("Banshee"));
+            _heroList.Add(new Hero("Beast"));
+            _heroList.Add(new Hero("Cannonball"));
+            _heroList.Add(new Hero("Colossus & Wolverine"));
+            _heroList.Add(new Hero("Dazzler"));
+            _heroList.Add(new Hero("Havok"));
+            _heroList.Add(new Hero("Jubilee"));
+            _heroList.Add(new Hero("Kitty Pryde"));
+            _heroList.Add(new Hero("Legion"));
+            _heroList.Add(new Hero("Longshot"));
+            _heroList.Add(new Hero("Phoenix"));
+            _heroList.Add(new Hero("Polaris"));
+            _heroList.Add(new Hero("Psylocke"));
+            _heroList.Add(new Hero("X-23"));
+
+            // Masterminds
+            _mastermindList.Add(new Mastermind("Arcade"));
+            _mastermindList.Add(new Mastermind("Dark Phoenix"));
+            _mastermindList.Add(new Mastermind("Deathbird"));
+            _mastermindList.Add(new Mastermind("Mojo"));
+            _mastermindList.Add(new Mastermind("Onslaught"));
+            _mastermindList.Add(new Mastermind("Shadow King"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("Dark Descendants"));
+            _villainGroupList.Add(new VillainGroup("Hellfire Club"));
+            _villainGroupList.Add(new VillainGroup("Mojoverse"));
+            _villainGroupList.Add(new VillainGroup("Murderworld"));
+            _villainGroupList.Add(new VillainGroup("Shadow-X"));
+            _villainGroupList.Add(new VillainGroup("Shi'ar Imperial Guard"));
+            _villainGroupList.Add(new VillainGroup("Sisterhood of Mutants"));
+
+            // Henchmen
+            _henchmenList.Add(new Henchmen("The Brood"));
+            _henchmenList.Add(new Henchmen("Shi'ar Death Commandos"));
+            _henchmenList.Add(new Henchmen("Hellfire Cult"));
+            _henchmenList.Add(new Henchmen("Sapien League"));
+            _henchmenList.Add(new Henchmen("Shi'ar Patrol Craft"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Alien Brood Encounters"));
+            _schemeList.Add(new Scheme("Anti-Mutant Hatred"));
+            _schemeList.Add(new Scheme("The Dark Phoenix Saga"));
+            _schemeList.Add(new Scheme("Horror of Horrors"));
+            _schemeList.Add(new Scheme("Mutant-Hunting Super Sentinels"));
+            _schemeList.Add(new Scheme("Nuclear Armageddon"));
+            _schemeList.Add(new Scheme("Televised Deathtraps of Mojoworld"));
+            _schemeList.Add(new Scheme("X-Men Danger Room goes Berserk"));
         }
 
         private void AddHomecomingSet()
