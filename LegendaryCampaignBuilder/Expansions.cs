@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LegendaryCampaignBuilder
 {
     [Flags]
-    enum ExpansionsCollected
+    enum Expansions
     {
         None = 0,
         Core = 1,

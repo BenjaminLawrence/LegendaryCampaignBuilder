@@ -8,7 +8,7 @@ namespace LegendaryCampaignBuilder
 {
     internal class Hero
     {
-        string Name { get; }
+        public string Name { get; }
         int Tier { get; }
         // CompatibleCampaigns Campaigns {get;}
         HeroTeam Team { get; }
@@ -42,6 +42,11 @@ namespace LegendaryCampaignBuilder
             Tier = 1;
             Team = HeroTeam.None;
             Classes = (HeroClass)0;
+        }
+
+        public override string ToString()
+        {
+            return Name;
         }
     }
 }
