@@ -2,10 +2,30 @@
 using LegendaryCampaignBuilder;
 using LegendaryCampaignBuilder.Heroes;
 
+// Check for expansion file
+// If no save file exists
+//  Ask for expansions
+//  Add each expansion to file
+// Go to menu
+//  New Campaign
+//    Go to campaign selection menu
+//      Generate campaign
+//  Load Campaign
+//    Load specific campaign
+//      Determine which campaign and stage
+//        Continue generating
+//  Expansions
+//    Shows expansion list
+//      Add expansion
+//      Remove expansion
+//  Settings
+//    ???
+//  Exit
+
 // Expansions expansions = (Expansions)16628224;
 Expansions expansions = (Expansions)511;
-HeroCatalog heroCatalog = new HeroCatalog(expansions);
-HeroPoolFactory heroPoolFactory = new HeroPoolFactory(heroCatalog.GetHeroes());
+Catalog catalog = new Catalog(expansions);
+HeroPoolFactory heroPoolFactory = new HeroPoolFactory(catalog.GetHeroes());
 HeroPool heroPool = heroPoolFactory.ThunderboltHeroPool();
 List<Hero> startingHeroes = heroPool.GetStartingHeroes();
 Console.WriteLine("Your starting team is:");
