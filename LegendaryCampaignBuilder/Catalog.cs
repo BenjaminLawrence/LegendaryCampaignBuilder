@@ -73,6 +73,12 @@ namespace LegendaryCampaignBuilder
             _villainGroupList.Add(new VillainGroup("Radiation"));
             _villainGroupList.Add(new VillainGroup("Skrulls"));
             _villainGroupList.Add(new VillainGroup("Spider-Foes"));
+
+            // Henchmen
+            _henchmenList.Add(new Henchmen("Doombot Legion"));
+            _henchmenList.Add(new Henchmen("Hand Ninjas"));
+            _henchmenList.Add(new Henchmen("Savage Land Mutates"));
+            _henchmenList.Add(new Henchmen("Sentinel"));
         }
 
         private void AddFantasticFourSet()
@@ -129,6 +135,10 @@ namespace LegendaryCampaignBuilder
             _villainGroupList.Add(new VillainGroup("Streets of New York"));
             _villainGroupList.Add(new VillainGroup("Underworld"));
             _villainGroupList.Add(new VillainGroup("Spider-Foes"));
+
+            // Henchmen
+            _henchmenList.Add(new Henchmen("Maggia Goons"));
+            _henchmenList.Add(new Henchmen("Phalanx"));
         }
 
         private void AddVillainsSet()
@@ -164,6 +174,12 @@ namespace LegendaryCampaignBuilder
             _villainGroupList.Add(new VillainGroup("Uncanny Avengers"));
             _villainGroupList.Add(new VillainGroup("Uncanny X-Men"));
             _villainGroupList.Add(new VillainGroup("X-Men First Class"));
+
+            // Henchmen
+            _henchmenList.Add(new Henchmen("Cops"));
+            _henchmenList.Add(new Henchmen("Multiple Man"));
+            _henchmenList.Add(new Henchmen("SHIELD Assault Squad"));
+            _henchmenList.Add(new Henchmen("Asgardian Warrior"));
         }
 
         private void AddPaintTheTownRedSet()
@@ -250,6 +266,11 @@ namespace LegendaryCampaignBuilder
             _villainGroupList.Add(new VillainGroup("Manhattan (Earth-1610)"));
             _villainGroupList.Add(new VillainGroup("Sentinel Territories"));
             _villainGroupList.Add(new VillainGroup("Wasteland"));
+
+            // Henchmen
+            _henchmenList.Add(new Henchmen("Thor Corps"));
+            _henchmenList.Add(new Henchmen("Ghost Racers"));
+            _henchmenList.Add(new Henchmen("MODOKS"));
         }
 
         private void AddSecretWarsTwoSet()
@@ -285,6 +306,11 @@ namespace LegendaryCampaignBuilder
             _villainGroupList.Add(new VillainGroup("Monster Metropolis"));
             _villainGroupList.Add(new VillainGroup("Utopolis"));
             _villainGroupList.Add(new VillainGroup("X-Men '92"));
+
+            // Henchmen
+            _henchmenList.Add(new Henchmen("Khonshu Guardians"));
+            _henchmenList.Add(new Henchmen("Magma Men"));
+            _henchmenList.Add(new Henchmen("Spider-Infected"));
         }
     }
 }
