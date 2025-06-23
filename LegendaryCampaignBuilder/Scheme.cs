@@ -8,6 +8,6 @@ namespace LegendaryCampaignBuilder
 {
     internal class Scheme
     {
-        Entity Entity { get; }
+        Card Entity { get; }
     }
 }

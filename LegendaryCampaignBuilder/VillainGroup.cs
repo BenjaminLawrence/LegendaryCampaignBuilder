@@ -8,6 +8,6 @@ namespace LegendaryCampaignBuilder
 {
     internal class VillainGroup
     {
-        Entity Entity { get; }
+        Card Entity { get; }
     }
 }

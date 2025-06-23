@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LegendaryCampaignBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83142328f2e89c8b48c95b9e010abc17652ac168")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d952272e884a28572e5102cbdf11416ab7581e61")]
 [assembly: System.Reflection.AssemblyProductAttribute("LegendaryCampaignBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LegendaryCampaignBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

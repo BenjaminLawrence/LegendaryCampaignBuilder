@@ -8,6 +8,6 @@ namespace LegendaryCampaignBuilder
 {
     internal class Henchmen
     {
-        Entity Entity { get; }
+        Card Entity { get; }
     }
 }

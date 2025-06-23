@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LegendaryCampaignBuilder
 {
-    internal class Entity
+    internal class Card
     {
         string Name { get; }
         Theme Theme { get; }
