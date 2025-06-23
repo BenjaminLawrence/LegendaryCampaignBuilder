@@ -458,5 +458,29 @@ namespace LegendaryCampaignBuilder
             _schemeList.Add(new Scheme("Reveal Heroes' Secret Identities"));
             _schemeList.Add(new Scheme("United States Split by Civil War"));
         }
+
+        private void AddNoirSet()
+        {
+            // Heroes
+            _heroList.Add(new Hero("Angel Noir"));
+            _heroList.Add(new Hero("Daredevil Noir"));
+            _heroList.Add(new Hero("Iron Man Noir"));
+            _heroList.Add(new Hero("Luke Cage Noir"));
+            _heroList.Add(new Hero("Spider-Man Noir"));
+
+            // Masterminds
+            _mastermindList.Add(new Mastermind("Charles Xavier, Professor of Crime"));
+            _mastermindList.Add(new Mastermind("The Goblin, Underworld Boss"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("Goblin's Freak Show"));
+            _villainGroupList.Add(new VillainGroup("X-Men Noir"));
+
+            // Schemes
+            _schemeList.Add(new Scheme("Find the Split Personality Killer"));
+            _schemeList.Add(new Scheme("Five Families of Crime"));
+            _schemeList.Add(new Scheme("Hidden Heart of Darkness"));
+            _schemeList.Add(new Scheme("Silence the Witnesses"));
+        }
     }
 }
