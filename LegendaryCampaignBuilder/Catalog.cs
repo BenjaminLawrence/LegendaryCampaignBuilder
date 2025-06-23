@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LegendaryCampaignBuilder
 {
-    internal class HeroCatalog
+    internal class Catalog
     {
         private List<Hero> _heroList = new List<Hero>();
 
