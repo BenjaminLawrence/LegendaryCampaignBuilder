@@ -64,6 +64,15 @@ namespace LegendaryCampaignBuilder
             _mastermindList.Add(new Mastermind("Loki"));
             _mastermindList.Add(new Mastermind("Magneto"));
             _mastermindList.Add(new Mastermind("Red Skull"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("Brotherhood"));
+            _villainGroupList.Add(new VillainGroup("Enemies of Asgard"));
+            _villainGroupList.Add(new VillainGroup("Hydra"));
+            _villainGroupList.Add(new VillainGroup("Masters of Evil"));
+            _villainGroupList.Add(new VillainGroup("Radiation"));
+            _villainGroupList.Add(new VillainGroup("Skrulls"));
+            _villainGroupList.Add(new VillainGroup("Spider-Foes"));
         }
 
         private void AddFantasticFourSet()
@@ -78,6 +87,10 @@ namespace LegendaryCampaignBuilder
             // Masterminds
             _mastermindList.Add(new Mastermind("Galactus"));
             _mastermindList.Add(new Mastermind("Mole Man"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("Heralds of Galactus"));
+            _villainGroupList.Add(new VillainGroup("Subterranea"));
         }
 
         private void AddDarkCitySet()
@@ -107,6 +120,15 @@ namespace LegendaryCampaignBuilder
             _mastermindList.Add(new Mastermind("Mephisto"));
             _mastermindList.Add(new Mastermind("Mr. Sinister"));
             _mastermindList.Add(new Mastermind("Stryfe"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("Emissaries of Evil"));
+            _villainGroupList.Add(new VillainGroup("Four Horseman"));
+            _villainGroupList.Add(new VillainGroup("Marauders"));
+            _villainGroupList.Add(new VillainGroup("MLF"));
+            _villainGroupList.Add(new VillainGroup("Streets of New York"));
+            _villainGroupList.Add(new VillainGroup("Underworld"));
+            _villainGroupList.Add(new VillainGroup("Spider-Foes"));
         }
 
         private void AddVillainsSet()
@@ -133,6 +155,15 @@ namespace LegendaryCampaignBuilder
             _mastermindList.Add(new Mastermind("Nick Fury"));
             _mastermindList.Add(new Mastermind("Odin"));
             _mastermindList.Add(new Mastermind("Professor X"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("Avengers"));
+            _villainGroupList.Add(new VillainGroup("Defenders"));
+            _villainGroupList.Add(new VillainGroup("Marvel Knights"));
+            _villainGroupList.Add(new VillainGroup("Spider Friends"));
+            _villainGroupList.Add(new VillainGroup("Uncanny Avengers"));
+            _villainGroupList.Add(new VillainGroup("Uncanny X-Men"));
+            _villainGroupList.Add(new VillainGroup("X-Men First Class"));
         }
 
         private void AddPaintTheTownRedSet()
@@ -147,6 +178,10 @@ namespace LegendaryCampaignBuilder
             // Masterminds
             _mastermindList.Add(new Mastermind("Carnage"));
             _mastermindList.Add(new Mastermind("Mysterio"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("Maximum Carnage"));
+            _villainGroupList.Add(new VillainGroup("Sinister Six"));
         }
 
         private void AddGOTGSet()
@@ -161,6 +196,10 @@ namespace LegendaryCampaignBuilder
             // Masterminds
             _mastermindList.Add(new Mastermind("Supreme Intelligence of the Kree"));
             _mastermindList.Add(new Mastermind("Thanos"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("Infinity Gems"));
+            _villainGroupList.Add(new VillainGroup("Kree Starforce"));
         }
 
         private void AddFearItselfSet()
@@ -175,6 +214,9 @@ namespace LegendaryCampaignBuilder
             
             // Masterminds
             _mastermindList.Add(new Mastermind("Uru-Enchanted Iron Man"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("The Mighty"));
         }
 
         private void AddSecretWarsOneSet()
@@ -200,6 +242,14 @@ namespace LegendaryCampaignBuilder
             _mastermindList.Add(new Mastermind("Nimrod, Super Sentinel"));
             _mastermindList.Add(new Mastermind("Wasteland Hulk"));
             _mastermindList.Add(new Mastermind("Zombie Green Goblin"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("The Deadlands"));
+            _villainGroupList.Add(new VillainGroup("Domains of Apocalypse"));
+            _villainGroupList.Add(new VillainGroup("Limbo"));
+            _villainGroupList.Add(new VillainGroup("Manhattan (Earth-1610)"));
+            _villainGroupList.Add(new VillainGroup("Sentinel Territories"));
+            _villainGroupList.Add(new VillainGroup("Wasteland"));
         }
 
         private void AddSecretWarsTwoSet()
@@ -227,6 +277,14 @@ namespace LegendaryCampaignBuilder
             _mastermindList.Add(new Mastermind("King Hyperion"));
             _mastermindList.Add(new Mastermind("Shiklah, the Demon Bride"));
             _mastermindList.Add(new Mastermind("Spider Queen"));
+
+            // Villain Groups
+            _villainGroupList.Add(new VillainGroup("Deadpool's Secret Secret Wars"));
+            _villainGroupList.Add(new VillainGroup("Guardians of Knowhere"));
+            _villainGroupList.Add(new VillainGroup("K'un Lun"));
+            _villainGroupList.Add(new VillainGroup("Monster Metropolis"));
+            _villainGroupList.Add(new VillainGroup("Utopolis"));
+            _villainGroupList.Add(new VillainGroup("X-Men '92"));
         }
     }
 }
